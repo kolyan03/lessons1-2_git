@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-color:#eeeeee;
+}
+div {
+	background-color:#ffffff;
+	margin: 3px 30% 15px;
+	padding: 30px 20px;
+	border: 2px solid thin;
+	word-wrap:break-word;
+	}
+
+.fio {	
+	margin:0;
+	text-align:center;
+	text-transform:capitalize;
+	font-weight:bold; 
+	font-size:20px;
+}
+
+img {	
+	height: auto;
+	max-width: 50%;
+	width: auto;
+}
